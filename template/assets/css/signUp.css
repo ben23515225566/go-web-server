@@ -1,0 +1,13 @@
+body{
+    background: #929ac7;
+}
+#signUpContent{
+    margin-top: 35vh;
+    margin-bottom: 20px;
+}
+#submit-button{
+    margin-top: 20px;
+}
+#submit-button button{
+    width: 100px;
+}

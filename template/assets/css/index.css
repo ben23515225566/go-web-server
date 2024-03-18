@@ -1,0 +1,16 @@
+body{
+    background: #929ac7;
+}
+#header{
+    margin-top: 35vh;
+    color: white;
+}
+#button-group{
+    margin: 0 auto;
+}
+#button-container{
+    margin-top: 30px;
+}
+#button-group button{
+    width: 100px;
+}
